@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on xiaojiaoyu
-- 🌱 I’m currently learning javascript vue react and soon 
+- 🔭 I’m currently working on zwsoft
+- 🌱 I’m currently learning javascript vue react angular and soon 
 - 👯 I’m looking to collaborate on ...
 
 
