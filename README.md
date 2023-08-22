@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently finding for work.
+- 🔭 I’m currently working in china guangzhou.
 - 🌱 I’m currently learning javascript vue react angular and soon 
 - 👯 I’m looking to collaborate on ...
 
