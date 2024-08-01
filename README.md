@@ -51,10 +51,13 @@ So if you're looking for a developer who's equal parts creative and strategic, p
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="" height=""/> 
     </a>
     <a href="#"> 
+      <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white" alt="" height=""/> 
+    </a>
+    <a href="#"> 
         <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="" height=""/> 
     </a>
     <a href="#"> 
-      <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue&logoColor=white" alt="" height=""/> 
+      <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="" height=""/> 
     </a>
     <a href="#"> 
       <img src="https://img.shields.io/badge/React-087ea4?style=for-the-badge&logo=react&logoColor=white" alt="" height=""/> 
