@@ -5,7 +5,7 @@
   
   ## Hi, I'm zxpsuper(小皮咖).
   <div id="badges">
-  <a href="https://github.com/zxpsuper">
+  <a href="https://link3.cc/suporka">
     <img src="https://img.shields.io/badge/个人名片-f00?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="名片"/>
   </a>
   <a href="https://zxpsuper.github.io/">
