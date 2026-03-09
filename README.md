@@ -76,8 +76,3 @@ So if you're looking for a developer who's equal parts creative and strategic, p
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zxpsuper)](https://git.io/streak-stats)
 &nbsp;&nbsp;
 </div>
-
-<div align="center"> 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zxpsuper&show_icons=true&include_all_commits=true&line_height=21&FFFC79,73FA79&theme=graywhite&locale=en" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxpsuper&hide_title=true&layout=compact&theme=graywhite&locale=en" />
-</div>
